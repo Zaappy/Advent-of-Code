@@ -26,4 +26,3 @@ valuesArr.forEach(el => {
 });
 
 console.log(sum);
-
