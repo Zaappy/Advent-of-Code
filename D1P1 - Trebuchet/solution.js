@@ -1,7 +1,7 @@
 // oh god
 
 const fs = require('fs');
-const inputArr = fs.readFileSync('./amendedDoc.txt', 'utf8').split('\n');
+const inputArr = fs.readFileSync('./input', 'utf8').split('\n');
 let regex1 = /\D/gi;
 let regex2 = /(?!^)[\s\S](?!$)/g;
 let valuesArr = [];
