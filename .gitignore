@@ -1,5 +1,6 @@
 *.code-workspace
 .DS_Store
+eslint.config.mjs
 input
 node_modules
 package-lock.json
