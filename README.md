@@ -1,6 +1,7 @@
-# Uh
-Hi welcome to me bumbling through [Advent of Code](https://adventofcode.com/),,
+# Zappy's AoC solutions
 
-I know my solutions could be much better but I just thought this would be fun to do okay thanks don't sue me
+This repo is where I will post my solutions to Advent of Code (if I finish them)
 
-update: ya i didnt finish this year but im still working on my skills ok great thanks :3
+2023: Did not complete
+
+2024: In progress
